@@ -1,6 +1,6 @@
 # Inteligência Artificial
 
-> Repositório da disciplina de Fundamentos de Programação pela Universidade Federal do Ceará - Campus Quixadá.
+> Repositório da disciplina de Inteligência Artificial pela Universidade Federal do Ceará - Campus Quixadá.
 
 ### Propósito
 O seguinte repositório tem como objetivo manter armazenado e organizado os algoritmos desenvolvidos na disciplina de 
