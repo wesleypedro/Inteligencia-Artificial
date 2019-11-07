@@ -36,7 +36,7 @@ Para avaliação dos estados, são analizados os seguintes estados. Cada vez que
 ##### Instruções para execução
 **Requisito:** possuir um interpretador python3
 
-	As instruções aqui apresentadas são mais voltadas para execução em terminais Linux, apesar de uma certa parte poder ser executadas no Windows também.
+> As instruções aqui apresentadas são mais voltadas para execução em terminais Linux, apesar de uma certa parte poder ser executadas no Windows também.
 * Para que o sistema possa rodar, é necessário que todos os seus arquivos estejam na mesma estutura apresentada aqui, bem como completos e seguir as seguintes instruções:
     * Abra uma janela do terminal na pasta em que se encontra as classes do programa.
     * Execute o seguinte comando para a execução do programa:
