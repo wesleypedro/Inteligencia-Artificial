@@ -1,4 +1,4 @@
-# Sistema de Controle Acadêmico
+# Sistema de Alocação de Enfermeiros por Turnos
 
 > O devido sistema foi implementado pelo aluno Wallesson Cavalcante juntamente comigo com o propósito de compor parte da nota da disciplina de Inteligência Artificial pela Universidade Federal do Ceará - Campus Quixadá.
 
