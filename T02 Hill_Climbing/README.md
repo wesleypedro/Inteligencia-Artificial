@@ -28,12 +28,7 @@ Para avaliação dos estados, são analizados os seguintes estados. Cada vez que
 6. Gerar estados aleatórios para a execução do algoritmo
 7. Mostar documentação
 
-### Restrições de implementação do sistema
-* O sistema deve ser implementado usando a linguagem C.
-* O sistema deve possuir  um sistema de arquivos que guarde o que foi alterado pelo usuário para que deva ter continuidade quando for executar novamente.
-* O sistema deve armazenar os dados em structs durante o tempo de execução.
-
-##### Instruções para execução
+#### Instruções para execução
 **Requisito:** possuir um interpretador python3
 
 > As instruções aqui apresentadas são mais voltadas para execução em terminais Linux, apesar de uma certa parte poder ser executadas no Windows também.
