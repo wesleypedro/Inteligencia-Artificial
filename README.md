@@ -17,6 +17,8 @@ algumas das técnicas de IA para resolvê-lo.
 3. Subida de Encosta (Hill Climbing).
 4. Subida de Encosta pelo Maior Aclive (Steepest-Ascent Hill Climbing).
 5. Busca pelo Melhor Primeiro (Best-First Search).
+6. Têmpera Simulada
+7. Algoritmos Genéticos
 
 ### Linguagens Usadas
 * Python (em sua maior parte).
